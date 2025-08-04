@@ -1,6 +1,6 @@
 ## Hi there, I'm Zouz👋
 # 💫 About Me:
-<br>🌱 I’m currently learning HTML/CSS/JS<br>⚡ Fun fact : I'm not so good a valorant
+<br>🌱 I’m currently learning HTML/CSS/JS<br>⚡ Fun fact : I'm not so good at valorant
 
 
 ## 🌐 Socials:
